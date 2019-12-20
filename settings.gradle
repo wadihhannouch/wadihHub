@@ -1,0 +1,2 @@
+include ':app', ':loginvalidator'
+rootProject.name='Libraries'
