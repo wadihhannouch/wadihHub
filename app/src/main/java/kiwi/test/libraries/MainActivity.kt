@@ -4,6 +4,7 @@ import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kiwi.test.loginvalidator.LoginValidator
+
 import kotlinx.android.synthetic.main.activity_main.*
 
 
